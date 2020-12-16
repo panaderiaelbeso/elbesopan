@@ -1,0 +1,12 @@
+@charset "utf-8";
+.caja1 {
+    background-color: #8A8586;
+    padding: 10px;
+    float: left;
+    height: 300px;
+    width: 550px;
+}
+.extra {
+    height: 100px;
+    width: 900px;
+}

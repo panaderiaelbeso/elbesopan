@@ -1,0 +1,40 @@
+@charset "utf-8";
+.texto1 {
+    font-family: montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    background-color: #FFFFFF;
+    height: 120px;
+    width: 950px;
+    color: #000000;
+    text-align: center;
+    list-style-position: outside;
+}
+.texto2 {
+    font-family: montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    padding: 10px;
+    height: 100px;
+    width: 900px;
+}
+.cuadro1 {
+    padding: 10px;
+    height: 450px;
+    width: 550px;
+    float: left;
+}
+.video {
+    background-color: #9A9090;
+    padding: 10px;
+    height: 335px;
+    width: 485px;
+}
+.galeria {
+    background-color: #6A6969;
+    height: 300px;
+    width: 800px;
+}
